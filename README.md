@@ -1,6 +1,6 @@
 # Generate (non-software) Bugs to Fool Classifiers
 
-This repository includes the implementation of our paper: [Generate (non-software) Bugs to Fool Classifiers](https://yumetaro.info/projects/bugs-ae/).
+This repository includes the implementation of our paper: [Generate (non-software) Bugs to Fool Classifiers](https://arxiv.org/abs/1911.08644).
 
 You can find generated adversarial examples at [our project page](https://yumetaro.info/projects/bugs-ae/).
 
